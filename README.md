@@ -4,7 +4,7 @@
 - 리눅스 기본기 함께 스터디 했던 것 : https://www.notion.so/GDB-10d72ca71e4c48c8868b00b67f2f4862
 - 메모리 자료 스터디 했던 것 : https://www.notion.so/cdaf701d48704e2abdcb0a0296862a00
 - 시스템 해킹 스터디 했던 것 : https://www.notion.so/study-7a579dcce4d2411e9e39bc11cc122256
-- bof에 대해 스터데 했던 것 : https://www.notion.so/bof-f593c88729bb46139106f57931222e19
+- bof에 대해 스터디 했던 것 : https://www.notion.so/bof-f593c88729bb46139106f57931222e19
 
 
 #### 이 동아리 경험을 통해 얻고 배운 것 
