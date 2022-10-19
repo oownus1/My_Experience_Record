@@ -75,4 +75,4 @@
  데이터 활용기반 구축(무료 오픈소스 기반) 
     - ETL1 데이터 추출 워크플로우 테스트 및 보완
     - ETL 환경구성을 위한 탈렌드(Talend) 서버 및 스케줄링 기능 테스트 중
-![image](https://user-images.githubusercontent.com/66655878/196635454-9d36735f-1768-4f09-9b0a-eab206291ac7.png)
+
